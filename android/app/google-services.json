@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681056688425",
+    "firebase_url": "https://roashan-app.firebaseio.com",
+    "project_id": "roashan-app",
+    "storage_bucket": "roashan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681056688425:android:5325029d715ece1b5e7f38",
+        "android_client_info": {
+          "package_name": "roashan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681056688425-6bkut4i2aqtv9qmc21lcve8tipen89pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "roashan.app",
+            "certificate_hash": "5f203aabde9f5a55623e6b0ab5f309c43de5ccea"
+          }
+        },
+        {
+          "client_id": "681056688425-rlc8kdecs9dpc919dv44nbe0t2721mp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDJbRLObZid-HXz7I7NHvxJwkB_XBXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681056688425-rlc8kdecs9dpc919dv44nbe0t2721mp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
